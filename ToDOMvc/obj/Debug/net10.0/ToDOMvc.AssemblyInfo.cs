@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDOMvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96c4d3cfc6e174b9cea830cd68fd3367d0e6ac98")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDOMvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDOMvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

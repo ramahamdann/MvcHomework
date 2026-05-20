@@ -64,10 +64,13 @@ namespace MvcTodoApp.Controllers
         public IActionResult EditTask(int id, string newTitle)
         {
              // TODO: ابحث عن المهمة باستخدام id
+             var task = tasks.FirstOrDefault(t => t.Id == id);
              // TODO: تأكد من أن المهمة موجودة وأن newTitle غير فارغ
-            // TODO: عدّل عنوان المهمة
-          
-
+             if (task != null && !string.IsNullOrEmpty(newTitle))
+            {   
+                // TODO: عدّل عنوان المهمة
+                task.Title = newTitle;
+            }
              return RedirectToAction("Index"); 
         }
         

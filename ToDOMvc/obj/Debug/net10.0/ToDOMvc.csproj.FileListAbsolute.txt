@@ -95,3 +95,4 @@ D:\ToDoMvc\ToDOMvc\obj\Debug\net10.0\refint\ToDOMvc.dll
 D:\ToDoMvc\ToDOMvc\obj\Debug\net10.0\ToDOMvc.pdb
 D:\ToDoMvc\ToDOMvc\obj\Debug\net10.0\ToDOMvc.genruntimeconfig.cache
 D:\ToDoMvc\ToDOMvc\obj\Debug\net10.0\ref\ToDOMvc.dll
+D:\ToDoMvc\ToDOMvc\obj\Debug\net10.0\ToDOMvc.sourcelink.json
